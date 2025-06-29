@@ -1,4 +1,4 @@
-# 🧠 Awesome Tools
+# Awesome Tools
 
 Inspired by the `awesome-*` trend.  
 
